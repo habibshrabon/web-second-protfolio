@@ -18,8 +18,8 @@ h6{
     color:red;
 }
 section{
-    height:700px;
-    bottom:150px;
+   overflow:hidden;
+   padding-bottom:150px;
 }
 .top-banner{
     background-image:url( images/header-bg.png);
@@ -43,6 +43,7 @@ section{
     padding:10px 20px;
     font-weight:700;
     border-radius:10px;
+    color:white;
 }
 .biography-area{
     background-image:url(images/biography-bg.png);
